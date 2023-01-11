@@ -12,3 +12,8 @@ Venkata Shreya Kala - H00348149
 * Experimented and recorded how hyperparameters affect the ability of an ANN to fit this dataset.
 * Results inference and analysis reported based on experimentation.
 * Reported references of wider literature or internet resources used throughout this project.
+
+
+##### Part 2:
+https://github.com/KulsoomKamilKhan/F20BC_CW2
+Implementation of well-known biologically-inspired optimisation algorithms, the Genetic Algorithm (GA) and Particle Swarm Optimisation (PSO) and attempting to optimize Sphere, Griewank's and Rastrigin's benchamrk test functions.
