@@ -1,4 +1,4 @@
-# F20BC - Biologically Inspired Computation (F20BC/F21BC)
+# Biologically Inspired Computation (F20BC/F21BC)
 # Coursework I
 
 ### Group G3-L10
