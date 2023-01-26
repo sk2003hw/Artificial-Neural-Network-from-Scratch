@@ -15,5 +15,5 @@ Venkata Shreya Kala - H00348149
 
 
 ##### Part 2:
-https://github.com/KulsoomKamilKhan/F20BC_CW2  
+https://github.com/KulsoomKamilKhan/GA-and-PSO-Algorithm-Optimisations 
 Implementation of well-known biologically-inspired optimisation algorithms, the Genetic Algorithm (GA) and Particle Swarm Optimisation (PSO) and attempting to optimize Sphere, Griewank's and Rastrigin's benchamrk test functions.
